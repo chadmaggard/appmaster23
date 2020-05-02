@@ -1,0 +1,32 @@
+GET https://alliancels.zendesk.com/api/v2/groups.json?user=casey.moore@alliancels.com&pass=Whyw0rry?
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-25T105233.401.json
+
+###
+
+GET https://alliancels.zendesk.com/api/v2/groups.json?user=casey.moore@alliancels.com&pass=Whyw0rry?
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-25T105143.401.json
+
+###
+
+GET https://alliancels.zendesk.com/api/v2/groups.json?user=casey.moore@alliancels.com&pass=Whyw0rry?
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-25T103323.401.json
+
+###
+
+GET https://alliancels.zendesk.com/api/v2/groups.json
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-25T103025.401.json
+
+###
+
